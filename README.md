@@ -33,6 +33,10 @@ cd zj-58
 make
 sudo ./install
 
+then run 
+sudo lpadmin -p ZJ-58 -E -v serial:/dev/usb/lp0?baud=9600 -m zjiang/ZJ-58.ppd
+sudo lpoptions -d ZJ-58
+
 then access cups web interface by modifying 
 /etc/cups/cupsd.config 
 and removing localhost from the web interface line but leaving the 631
@@ -43,7 +47,10 @@ at the end of the Location /, /admin, /admin/conf sections
 
 sudo usermod -a -G lpadmin pi
 
+
+
 restart the cups service and you should be able to access the web interface from https://Ipddress:631
 
 from there login with pi and navigate to add printer. select the local one in the list that is your printer and choose driver. the zj58 should be at the bottom of the list.
 set it as default and print a test page
+
