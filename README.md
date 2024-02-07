@@ -55,4 +55,4 @@ setup the new media type in the /etc/enscript.cfg file
 
 finally test using
 
-sudo echo "Lure iron juggernaut onto weak floor inside Hounds of Barrakas." |enscript -d ZJ-58 -fCourier24 -M ZJ -r -B
+sudo echo "Lure iron juggernaut onto weak floor inside Hounds of Barrakas." |enscript -d ZJ-58 -fCourier22 -M ZJ -r -B --word-wrap
