@@ -1,0 +1,17 @@
+Started by user [8mha:////4DRmUkMbtdTD7vYzsbAjGHhFWZS3mWLBb/fVCMHWmkMkAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/EP-02/Define Enemy Forces
+[Define Enemy Forces] $ /bin/sh -xe /tmp/jenkins2413400128425378690.sh
++ sudo espeak -ven+f3 Define enemy forces
+
+We trust you have received the usual lecture from the local System
+Administrator. It usually boils down to these three things:
+
+    #1) Respect the privacy of others.
+    #2) Think before you type.
+    #3) With great power comes great responsibility.
+
+sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

@@ -1,0 +1,9 @@
+Started by user [8mha:////4DRmUkMbtdTD7vYzsbAjGHhFWZS3mWLBb/fVCMHWmkMkAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/EP-02/Printouts/Lure Iron Juggernaut
+[Lure Iron Juggernaut] $ /bin/sh -xe /tmp/jenkins12061126777466146632.sh
++ sudo echo Lure iron juggernaut onto weak floor inside Hounds of Barrakas.
++ enscript -d ZJ-58 -fCourier24 -M ZJ -r -B
+[ 1 page * 1 copy ] sent to ZJ-58
+1 line was wrapped
+Finished: SUCCESS
